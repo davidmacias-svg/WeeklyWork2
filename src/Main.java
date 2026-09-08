@@ -21,7 +21,7 @@ public class Main {
 	
 	
 	String name = in.nextline();
-	System.out.print("Nice to meet you" +name);
+	System.out.print("Nice to meet you "+name);
 
 		
 		
