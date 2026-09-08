@@ -1,8 +1,8 @@
 /*******************************
- * Name: Your name
+ * Name: David
  * Class: ICS3U
- * Date: When it's due
- * Project Name:
+ * Date: Sept. 8
+ * Project Name: Weekly  Work 2
  * 
  * Project Description
  ********************************/
@@ -15,8 +15,14 @@ public class Main {
 		
 		
 		
-		
-		
+	System.out.print("It work");
+	System.out.print("42");
+	System.out.print("What is your name? ");
+	
+	
+	String name = in.nextline();
+	System.out.print("Nice to meet you" +name);
+
 		
 		
 		
