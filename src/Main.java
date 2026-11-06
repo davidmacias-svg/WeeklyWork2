@@ -13,16 +13,13 @@ public class Main {
 		Scanner in = new Scanner(System.in);
 		// YOUR CODE GOES HERE!!!!
 		
-		
-		
-	System.out.print("It work");
-	System.out.print("42");
-	System.out.print("What is your name? ");
-	
-	
-	String name = in.nextline();
-	System.out.print("Nice to meet you "+name);
-
+		char letter1 = 'H'; 
+		char letter2 = 'e'; 
+		char letter3 = 'l'; 
+		char letter4 = 'l'; 
+		char letter5 = 'o'; 
+		//Long sentences would be painful to code 
+		System.out.println("" + letter1 + letter2 +  letter3 + letter4 + letter5);
 		
 		
 		
